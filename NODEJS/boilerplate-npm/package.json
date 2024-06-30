@@ -1,0 +1,24 @@
+{
+  "name": "fcc-learn-npm-package-json",
+  "author": "Piyush Vaid",
+  "description": "Managing packages with npm for FreeCodeCamp",
+  "keywords": [
+    "vaid",
+    "freecodecamp",
+    "practise",
+    "tutorial"
+  ],
+  "dependencies": {
+    "express": "4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+  },
+  "license": "GPL-3.0-only",
+  "version": "3.10.2"
+}
